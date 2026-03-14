@@ -1215,7 +1215,6 @@
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.Арт_КонтактноеЛицо</catalogs>
   <catalogs>Catalog.Арт_Должость</catalogs>
-  <catalogs>Catalog.Справочник25</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>

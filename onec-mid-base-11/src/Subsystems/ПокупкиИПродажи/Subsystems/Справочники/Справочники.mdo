@@ -13,6 +13,5 @@
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>Catalog.Организации</content>
   <content>Catalog.Арт_КонтактноеЛицо</content>
-  <content>Catalog.Справочник25</content>
   <parentSubsystem>Subsystem.ПокупкиИПродажи</parentSubsystem>
 </mdclass:Subsystem>
